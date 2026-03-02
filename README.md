@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.eventbrite.com/e/ship-production-pytorch-system-in-a-day-train-optimize-deploy-workshop-tickets-1983348934052?aff=GitHub'><img src='https://static.packt-cdn.com/assets/images/packt+events/workshop_ashish_github.png'/></a></p>
+
 # Data-Centric Machine Learning with Python 
 <a href="https://www.packtpub.com/product/data-centric-machine-learning-with-python/9781804618127?utm_source=github&utm_medium=repository&utm_campaign=9781804618127"> <img src="https://content.packt.com/B19297/cover_image_small.jpg" alt="" height="256px" align="right"></a>
 
